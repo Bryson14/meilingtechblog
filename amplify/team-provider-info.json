@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-meilingtechblog-dev-202702-authRole",
+      "UnauthRoleArn": "arn:aws:iam::703791825883:role/amplify-meilingtechblog-dev-202702-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::703791825883:role/amplify-meilingtechblog-dev-202702-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-meilingtechblog-dev-202702-deployment",
+      "UnauthRoleName": "amplify-meilingtechblog-dev-202702-unauthRole",
+      "StackName": "amplify-meilingtechblog-dev-202702",
+      "StackId": "arn:aws:cloudformation:us-east-2:703791825883:stack/amplify-meilingtechblog-dev-202702/8b5dd630-a1fb-11ee-b4bc-0a35a604e273",
+      "AmplifyAppId": "d1fczkrv314hnp"
+    }
+  }
+}

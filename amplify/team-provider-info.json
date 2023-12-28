@@ -10,6 +10,14 @@
       "StackName": "amplify-meilingtechblog-dev-202702",
       "StackId": "arn:aws:cloudformation:us-east-2:703791825883:stack/amplify-meilingtechblog-dev-202702/8b5dd630-a1fb-11ee-b4bc-0a35a604e273",
       "AmplifyAppId": "d1fczkrv314hnp"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1fczkrv314hnp",
+          "type": "cicd"
+        }
+      }
     }
   }
 }

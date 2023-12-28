@@ -25,3 +25,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - [ ] Get website up and running on amplify
 - [ ] Add MDX support
 - [ ] Set globals CSS and find a design
+- [ ] Sticky Footer like [this](https://mantine.dev/others/nprogress/)
+- [ ] Add dark mode
+- [ ] Add use system color scheme
